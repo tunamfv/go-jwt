@@ -3,8 +3,8 @@ package interactor
 import (
 	"context"
 	"github.com/tunamfv/go-jwt/usecase/repository"
-	"github.com/tunamfv/go-jwt/usecase/repsenter"
-	"github.com/tunamfv/go-jwt/usecase/repsenter"
+	"github.com/tunamfv/go-jwt/usecase/presenter"
+	"github.com/tunamfv/go-jwt/usecase/presenter"
 )
 
 type UserInteractor interface {
